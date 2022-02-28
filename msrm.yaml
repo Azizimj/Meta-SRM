@@ -1,0 +1,9 @@
+name: meta-srm
+
+dependencies:
+  - python=3.8
+  - numpy=1.19.2
+  - matplotlib=3.3.2
+  - pytz=2020.1
+  - pip:
+    - scipy=1.5.2
