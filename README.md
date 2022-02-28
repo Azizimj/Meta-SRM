@@ -23,11 +23,13 @@ as otherwise you run into plugging issues which return weird results.
 If this work is helpful in your research, please consider citing:  
 
 ```bibtex
-@article{MSRM,
-  title={{Meta-Learning for Simple Regret Minimizatin}},
-  author={Anonymous},
-  journal={TBD},
-  year={2022}
+@article{azizi2022metalearning,
+      title={Meta-Learning for Simple Regret Minimization}, 
+      author={Mohammadjavad Azizi and Branislav Kveton and Mohammad Ghavamzadeh and Sumeet Katariya},
+      year={2022},
+      eprint={2202.12888},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
 }
 ```
 
